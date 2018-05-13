@@ -1,0 +1,15 @@
+.pin {
+    font-size: 30px;
+    font-weight: bold;
+    border: 3px solid #fff;
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 0 15px;
+    margin-bottom: 20px;
+
+
+}
+

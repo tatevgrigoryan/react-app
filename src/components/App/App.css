@@ -1,0 +1,33 @@
+.head-section {
+    background-color: #181b3f;
+
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+.head-title {
+    font-weight: bold;
+    text-transform: uppercase;
+    width: 30%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.head-subtitle-tail {
+  color:green;
+    margin-left: 5px;
+}
+.pin-section {
+    margin-top:40px;
+}
+
+.second-section {
+    background-color: #ebfbfe;
+    color:darkblue;
+}
+.second-section-info {
+    width: 60%;
+    margin: 0 auto;
+
+}
